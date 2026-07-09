@@ -1,4 +1,4 @@
-# Deploying a Node Js Application on AWS EC2
+# Deploying a Node Js Application on AWS EC2 follwed by containerising this application
 
 ### Testing the project locally
 
@@ -67,8 +67,9 @@ npm install
 npm run start
 ```
 
-> NOTE - We will have to edit the **inbound rules** in the security group of our EC2, in order to allow traffic from our particular port
+> NOTE - We will have to edit the **inbound rules** in the security group of our EC2, in order to allow traffic from our particular port [consider inbound rules as shown below]
+<img width="1000" height="644" alt="image" src="https://github.com/user-attachments/assets/d4388c55-4b1a-465a-a059-b61914861645" />
 
 ### Project is deployed on AWS 🎉
 
-<img width="1348" height="732" alt="image" src="https://github.com/user-attachments/assets/7812826f-4eb2-41ba-b41f-d4eeca48926b" />
+<img width="1000" height="732" alt="image" src="https://github.com/user-attachments/assets/7812826f-4eb2-41ba-b41f-d4eeca48926b" />
