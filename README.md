@@ -1,4 +1,4 @@
-# Deploying a Node Js Application on AWS EC2 follwed by containerising this application
+# Deploying ,containerising and automating a Node Js Application
 
 ### Testing the project locally
 
